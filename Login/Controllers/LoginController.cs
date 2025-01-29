@@ -14,7 +14,12 @@ namespace Login.Controllers
         [HttpPost]
         public IActionResult Index(LoginModel.Login login)
         {
-           if (login.Username == "admin" && login.Password == "admin")
+            if (!ModelState.IsValid)
+            {
+                return View(login);
+            }
+
+            if (login.Username == "admin" && login.Password == "admin")
             {
                 Console.WriteLine($"Correct credentials: {login.Username}, {login.Password}");
                 return RedirectToAction("Index", "Home");
@@ -22,7 +27,7 @@ namespace Login.Controllers
             else
             {
                 Console.WriteLine($"Wrong credentials: {login.Username}, {login.Password}");
-                return View();
+                return View(login);
             }
         }
     }
