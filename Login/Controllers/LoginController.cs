@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using LoginModel;
 
 namespace Login.Controllers
 {
     public class LoginController : Controller
     {
+
         [HttpGet]
         public IActionResult Index()
         {
@@ -14,20 +14,21 @@ namespace Login.Controllers
         [HttpPost]
         public IActionResult Index(LoginModel.Login login)
         {
-           if (ModelState.IsValid)
-           {
-               return RedirectToAction("Index", "Home");
-           }
-           return View(login);
+            if (!ModelState.IsValid)
+            {
+                return View(login);
+            }
 
-        //    if (login.Username == "admin" && login.Password == "admin")
-        //     {
-        //         return RedirectToAction("Index", "Home");
-        //     }
-        //     else
-        //     {
-        //         return View();
-        //     }
+            if (login.Username == "admin" && login.Password == "admin")
+            {
+                Console.WriteLine($"Correct credentials: {login.Username}, {login.Password}");
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                Console.WriteLine($"Wrong credentials: {login.Username}, {login.Password}");
+                return View(login);
+            }
         }
     }
 }

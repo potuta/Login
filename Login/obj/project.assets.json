@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Cyril\\.nuget\\packages\\": {},
+    "C:\\Users\\cyy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
+      "projectUniqueName": "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
       "projectName": "Login",
-      "projectPath": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
-      "packagesPath": "C:\\Users\\Cyril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\obj\\",
+      "projectPath": "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
+      "packagesPath": "C:\\Users\\cyy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Cyril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cyy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

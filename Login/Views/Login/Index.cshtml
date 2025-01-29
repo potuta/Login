@@ -1,7 +1,17 @@
 @{
     ViewData["Title"] = "Login";
 }
+@model LoginModel.Login
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+<div class="form-container">
+    <form asp-action="Index" asp-controller="Login" method="post">
+        <label for="username">Username: </label>
+        <input type="text" asp-for="Username" id="username" placeholder="Username">
+        <br>
+        <label for="password">Password: </label>
+        <input type="password" asp-for="Password" id="password" placeholder="Password">
+        <br>
+        <input type="submit" value="Submit">
+    </form>
 </div>
+
