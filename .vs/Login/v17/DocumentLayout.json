@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|c:\\users\\cyril\\desktop\\coding\\c#\\asp.net\\login\\login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|solutionrelative:login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|c:\\users\\cyril\\desktop\\coding\\c#\\asp.net\\login\\login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|solutionrelative:login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|c:\\users\\cyril\\desktop\\coding\\c#\\asp.net\\login\\login\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|solutionrelative:login\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|c:\\users\\cyril\\desktop\\coding\\c#\\asp.net\\login\\login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|solutionrelative:login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|c:\\users\\cyril\\desktop\\coding\\c#\\asp.net\\login\\login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EE6E3C-FC3B-479B-995F-7E95F8C4EAFF}|Login\\Login.csproj|solutionrelative:login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Login\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:25:44.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Login\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:22:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Login\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T13:10:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Login\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T13:10:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cyril\\Desktop\\Coding\\c#\\ASP.NET\\Login\\Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T12:50:30.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

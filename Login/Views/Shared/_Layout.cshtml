@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Login</title>
+    @* <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Login.styles.css" asp-append-version="true" /> *@
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class="navbar-menu">
+                <li class="navbar-item">
+                    <a class="navbar-link" asp-controller="Login" asp-action="Index">Login</a>
+                </li>
+                <li class="navbar-item">
+                    <a class="navbar-link" asp-controller="Home" asp-action="Index">Sign-up</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
