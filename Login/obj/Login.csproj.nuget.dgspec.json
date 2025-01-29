@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj": {}
+    "c:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj": {
+    "c:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
+        "projectUniqueName": "c:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
+        "projectPath": "c:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\Login.csproj",
         "packagesPath": "C:\\Users\\cyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\obj\\",
+        "outputPath": "c:\\Users\\cyy\\Desktop\\coding\\c#\\ASP.NET\\Login\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
